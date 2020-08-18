@@ -6,8 +6,8 @@ This repository will be covering problems and concepts on datastructures in C.
 The topics covered so far:
 
 Recursion:
-Indirect
-Nested
-Natural
-Tail
-Tree
+  Indirect
+  Nested
+  Natural
+  Tail
+  Tree
